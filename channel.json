@@ -1,0 +1,10 @@
+{
+  "servers" : {
+      "gw" : "8dkfj@3jdklakdjjfkd",
+      "api" : "djljakjdlljkjfklad"
+  },
+  "info" : {
+    "version" : 1,
+    "encrypt" : "des"
+  }
+}
