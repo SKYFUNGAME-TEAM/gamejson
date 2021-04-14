@@ -1,10 +1,8 @@
 {
-  "servers" : {
-      "gw" : "8dkfj@3jdklakdjjfkd",
-      "api" : "djljakjdlljkjfklad"
+  "names" : {
+      "api" : "huayinziben.com"
   },
   "info" : {
-    "version" : 1,
-    "encrypt" : "des"
+    "version" : 1
   }
 }
