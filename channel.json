@@ -1,8 +1,20 @@
-{
-  "names" : {
-      "api" : "huayinziben.com"
-  },
-  "info" : {
-    "version" : 1
-  }
+{ 
+  "zh-CN": [
+  { "firstName": "Brett", "lastName":"McLaughlin", "email": "brett@newInstance.com" },
+  { "firstName": "Jason", "lastName":"Hunter", "email": "jason@servlets.com" },
+  { "firstName": "Elliotte", "lastName":"Harold", "email": "elharo@macfaq.com" }
+ ],
+"zh-HK": [
+  { "firstName": "Isaac", "lastName": "Asimov", "genre": "science fiction" },
+  { "firstName": "Tad", "lastName": "Williams", "genre": "fantasy" },
+  { "firstName": "Frank", "lastName": "Peretti", "genre": "christian fiction" }
+ ],
+"zh-TW": [
+  { "firstName": "Eric", "lastName": "Clapton", "instrument": "guitar" },
+  { "firstName": "Sergei", "lastName": "Rachmaninoff", "instrument": "piano" }
+ ],
+ "en-US": [
+  { "firstName": "Eric", "lastName": "Clapton", "instrument": "guitar" },
+  { "firstName": "Sergei", "lastName": "Rachmaninoff", "instrument": "piano" }
+ ]
 }
